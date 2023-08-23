@@ -6,3 +6,6 @@ Makefile
 CMakeFiles
 cute_unittests
 Testing/Temporary
+.ccls
+.ccls-cache
+result

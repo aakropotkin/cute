@@ -36,7 +36,3 @@ The development has just started and is not considered to be production-ready at
 - [lest](https://github.com/martinmoene/lest)
 - [catch](https://github.com/philsquared/Catch)
 - [turtle](http://turtle.sourceforge.net/)
-
-## dependencies
-
-- [cmake](http://cmake.org/): only required for building and executing the self-test unit test suite

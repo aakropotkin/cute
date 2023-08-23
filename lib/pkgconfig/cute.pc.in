@@ -1,0 +1,7 @@
+prefix=@PREFIX@
+includedir=${prefix}/include
+
+Name: Cute
+Description: C++ unit test executor
+Version: @VERSION@
+Cflags: -I${includedir}
